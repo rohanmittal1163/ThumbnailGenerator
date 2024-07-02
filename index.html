@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>youtube video downloader</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		<link
+			rel="stylesheet"
+			href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+		/>
+	</head>
+	<body>
+		<div class="container">
+			<p class="heading">download thumbnail</p>
+			<div class="col">
+				<label for="url">paste video url:</label>
+				<input
+					id="url"
+					autofocus
+					type="url"
+					placeholder="https://www.youtube.com/watch?v=FucPPCPDd2Y"
+				/>
+			</div>
+			<div class="file show">
+				<span class="material-symbols-outlined"> cloud_download </span>
+				<p>paste video url to see the preview</p>
+			</div>
+
+			<img id="imgArea" class="hide" src="" />
+			<button>download thumbnail</button>
+		</div>
+		<script type="text/javascript" src="script.js"></script>
+	</body>
+</html>
