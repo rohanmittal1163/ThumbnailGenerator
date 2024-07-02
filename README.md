@@ -2,8 +2,7 @@
 
 A Thumbnail Generator with a download option using HTML, CSS, and JavaScript. It allows users to create and save custom thumbnails easily.
 
-# ⚜ DEMO -- https://weather1163.netlify.app/
-
+# ⚜ DEMO -- https://thumbnailgen1163.netlify.app/
 ![image](https://github.com/rohanmittal1163/ThumbnailGenerator/assets/97821844/246f0e2d-ec10-47d4-8533-ffcf111a1fae)
 ![image](https://github.com/rohanmittal1163/ThumbnailGenerator/assets/97821844/df85aa55-cfdb-4f38-a6fb-a53e9fcff4e0)
 
